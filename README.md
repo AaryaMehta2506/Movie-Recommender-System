@@ -28,7 +28,8 @@ Required files:
 Both must be placed in the same project directory as app.py
 
 ## Installation & Run
-git clone https://github.com/your-username/movie-recommender-system.git
+git clone https://github.com/AaryaMehta2506/Movie-Recommender-System.git
+
 cd movie-recommender-system
 python -m venv venv
 venv\Scripts\activate         # For Windows
