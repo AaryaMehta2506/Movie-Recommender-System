@@ -9,7 +9,6 @@ Intelligent parsing of genres, cast, crew, and keywords
 Streamlit interactive web interface
 Clean, fast, and user-friendly design
 Optimized for medium-sized datasets
-------------------------------------------------------------
 
 ## Tech Stack
 Python 3.10+
@@ -22,6 +21,7 @@ Ast / JSON
 ## Dataset
 This system uses The Movies Dataset 
 Link : https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
+
 Required files:
 - movies_metadata.csv
 - credits.csv
